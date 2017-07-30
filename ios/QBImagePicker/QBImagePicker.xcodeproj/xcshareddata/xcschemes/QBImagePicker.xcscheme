@@ -14,6 +14,20 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
+               BlueprintIdentifier = "A5BE393C1B32B49D00ECDF88"
+               BuildableName = "RSKImageCropper.framework"
+               BlueprintName = "RSKImageCropper"
+               ReferencedContainer = "container:../RSKImageCropper/RSKImageCropper.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
                BlueprintIdentifier = "AAA8FE021ACDA079002A9710"
                BuildableName = "QBImagePicker.framework"
                BlueprintName = "QBImagePicker"
